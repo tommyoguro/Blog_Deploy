@@ -1,0 +1,47 @@
+# この viminfo ファイルは Vim 9.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1736757621,,"wq"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	数
+|3,1,36,0,1,0,1736757613,"数"
+
+# ファイルマーク:
+'0  2  147  /var/www/Blog_Deploy/shared/config/secrets.yml
+|4,48,2,147,1736757621,"/var/www/Blog_Deploy/shared/config/secrets.yml"
+
+# ジャンプリスト (新しいものが先):
+-'  2  147  /var/www/Blog_Deploy/shared/config/secrets.yml
+|4,39,2,147,1736757621,"/var/www/Blog_Deploy/shared/config/secrets.yml"
+-'  1  0  /var/www/Blog_Deploy/shared/config/secrets.yml
+|4,39,1,0,1736757594,"/var/www/Blog_Deploy/shared/config/secrets.yml"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> /var/www/Blog_Deploy/shared/config/secrets.yml
+	*	1736757616	0
+	"	2	147
+	^	2	148
+	.	2	147
+	+	2	147
