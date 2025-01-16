@@ -298,9 +298,9 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
-  capistrano (~> 3.10)
-  capistrano-rails (~> 1.6)
-  capistrano-rbenv (~> 2.2)
+  capistrano
+  capistrano-rails
+  capistrano-rbenv
   capistrano-safe-deploy-to
   capistrano3-unicorn
   capybara (>= 2.15)
