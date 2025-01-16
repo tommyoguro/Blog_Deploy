@@ -296,6 +296,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  activesupport
   bootsnap (>= 1.4.2)
   byebug
   capistrano (~> 3.10)
@@ -307,6 +308,7 @@ DEPENDENCIES
   image_processing (~> 1.2)
   jbuilder (~> 2.7)
   listen (~> 3.2)
+  logger
   pg (>= 0.18, < 2.0)
   puma (~> 4.1)
   rails (= 6.1.7.7)
